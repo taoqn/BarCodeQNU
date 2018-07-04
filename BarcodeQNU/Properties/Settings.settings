@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BarcodeQNU.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Intermec PC43t (203 dpi)</Value>
+    </Setting>
+    <Setting Name="PaperName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shelf label</Value>
+    </Setting>
+    <Setting Name="Landspace" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MarginLeft" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MarginTop" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SizeWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="SizeHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="HorizontalAlignment" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Stretch</Value>
+    </Setting>
+    <Setting Name="BarcodeW" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">390</Value>
+    </Setting>
+    <Setting Name="BarcodeH" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

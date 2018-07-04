@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="BarcodeQNU.Component.ModalDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+             x:Name="root" Loaded="root_Loaded">
+    <Grid DataContext="{Binding ElementName=root}">
+        <Border Background="#90000000" Visibility="{Binding Visibility}">
+            <Border Name="BorderContainer" Margin="{Binding MarginDialog}" BorderBrush="Black" BorderThickness="1" Background="White" CornerRadius="10,10,10,10" VerticalAlignment="Top" HorizontalAlignment="Center">
+                <Border.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black" Opacity="0.5" Direction="270" ShadowDepth="0.7" />
+                </Border.BitmapEffect>
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="Auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Name="HeaderLabel" Grid.Column="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="18,0,0,0" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" Foreground="#FF009688" Content="{Binding HeaderText}" />
+                        <Button Name="CloseButton" Grid.Column="1" BorderBrush="Red" Background="#FFFF6565" Width="18" Height="18" Click="ExitButton_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Content="X" FontWeight="Bold" Foreground="White">
+                            <!--<materialDesign:PackIcon Kind="Close" Width="18" Height="18" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-16,-9,-20,-10" />-->
+                            <!--<iconPacks:PackIconFontAwesome Width="18" Height="18" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-10,-9,-20,-10" Kind="WindowCloseRegular" />-->
+                        </Button>
+                    </Grid>
+                    <!--Content="{Binding Context_OK}"-->
+                    <!--<ContentPresenter x:Name="ModalContainer" Grid.Row="1" Content="{Binding Items}"/>-->
+                    <Grid Name="ModalContainer" Grid.Row="1" />
+                    <UniformGrid Name="grid_button" Grid.Row="2" Columns="2" Margin="0,10,0,6" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                        <syncfusion:ButtonAdv Name="OkButton" IconWidth="0" IconHeight="0" Height="30" SmallIcon="/Icon/add-icon.png" Click="OkButton_Click" Label="{Binding Context_OK}" Content="{Binding Context_OK}" Margin="2" FontWeight="Bold" FontSize="14"/>
+                        <syncfusion:ButtonAdv Name="CancelButton" IconWidth="0" IconHeight="0" Height="30" SmallIcon="/Icon/delete-icon.png" Click="CancelButton_Click" Label="{Binding Context_Cancel}" Content="{Binding Context_Cancel}" Margin="2" FontWeight="Bold" FontSize="14" />
+                    </UniformGrid>
+                </Grid>
+            </Border>
+        </Border>
+    </Grid>
+</UserControl>

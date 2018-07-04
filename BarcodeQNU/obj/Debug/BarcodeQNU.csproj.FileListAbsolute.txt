@@ -1,0 +1,179 @@
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.exe.config
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.exe
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.pdb
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.PdfViewer.Wpf.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\syncfusion.sfbarcode.wpf.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.PdfViewer.Wpf.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\syncfusion.sfbarcode.wpf.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csprojResolveAssemblyReference.cache
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\MainWindow.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\App.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU_MarkupCompile.cache
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU_MarkupCompile.lref
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\MainWindow.baml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.g.resources
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.Properties.Resources.resources
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.GenerateResource.cache
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.CoreCompileInputs.cache
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.CopyComplete
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.exe
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.pdb
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\App.baml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfSkinManager.Wpf.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Themes.Office2010Blue.Wpf.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfSkinManager.Wpf.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Themes.Office2010Blue.Wpf.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\ControlzEx.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\ControlzEx.pdb
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.pdb
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Data.WPF.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfGrid.WPF.dll
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Data.WPF.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfGrid.WPF.xml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ModalDialog.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ModalDialog.baml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddPrintingBarcode.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddPrintingBarcode.baml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ImageCanvas.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ImageCanvas.baml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\Component\CbxBarcodeSymbolType.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\Component\CbxBarcodeSymbolType.baml
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddListPrintingBarcode.g.cs
+C:\Users\Lances\source\repos\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddListPrintingBarcode.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.exe.config
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.exe
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.pdb
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\ControlzEx.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Data.WPF.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.PdfViewer.Wpf.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\syncfusion.sfbarcode.wpf.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfGrid.WPF.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfSkinManager.Wpf.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Themes.Office2010Blue.Wpf.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\ControlzEx.pdb
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.pdb
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Data.WPF.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.PdfViewer.Wpf.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\syncfusion.sfbarcode.wpf.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfGrid.WPF.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfSkinManager.Wpf.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Themes.Office2010Blue.Wpf.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\CbxBarcodeSymbolType.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ModalDialog.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\App.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddListPrintingBarcode.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddPrintingBarcode.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\SettingLayoutPrinting.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\CbxBarcodeSymbolType.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ImageCanvas.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ModalDialog.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\UModalDialog.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\MainWindow.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\App.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU_MarkupCompile.cache
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU_MarkupCompile.lref
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddListPrintingBarcode.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddPrintingBarcode.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\SettingLayoutPrinting.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ImageCanvas.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\UModalDialog.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\MainWindow.baml
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.g.resources
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.Properties.Resources.resources
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.GenerateResource.cache
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.CopyComplete
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.exe
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.pdb
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\CbxBarcodeSymbolType.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ModalDialog.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\App.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddListPrintingBarcode.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddPrintingBarcode.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\SettingLayoutPrinting.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\CbxBarcodeSymbolType.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ImageCanvas.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ModalDialog.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\UModalDialog.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\MainWindow.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\App.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU_MarkupCompile.cache
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU_MarkupCompile.lref
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.exe.config
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.exe
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\BarcodeQNU.pdb
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\ControlzEx.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Data.WPF.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.PdfViewer.Wpf.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\syncfusion.sfbarcode.wpf.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfGrid.WPF.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfSkinManager.Wpf.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Themes.Office2010Blue.Wpf.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\ControlzEx.pdb
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.pdb
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Data.WPF.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.PdfViewer.Wpf.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\syncfusion.sfbarcode.wpf.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfGrid.WPF.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.SfSkinManager.Wpf.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Themes.Office2010Blue.Wpf.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddListPrintingBarcode.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\AddPrintingBarcode.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\ChildControl\SettingLayoutPrinting.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\ImageCanvas.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\Component\UModalDialog.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\MainWindow.baml
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.g.resources
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.Properties.Resources.resources
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.GenerateResource.cache
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.CoreCompileInputs.cache
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csproj.CopyComplete
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.exe
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.pdb
+C:\Users\Lances\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csprojAssemblyReference.cache
+C:\Users\Dinh Tao\Desktop\BarcodeQNU\BarcodeQNU\obj\Debug\BarcodeQNU.csprojAssemblyReference.cache

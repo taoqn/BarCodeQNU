@@ -1,0 +1,13 @@
+Code39
+
+Code39Extended
+
+Code11
+
+Codabar
+
+Code93
+
+Code93Extended
+
+Barcode128B
